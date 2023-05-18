@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "heroku": "^8.1.3"
+    
   }
 }
